@@ -1,23 +1,6 @@
 ## 'End To End Solution Architect' forum brings to you the terraform scripts for infrastructure provisioning in AWS, Azure and Google Cloud Platform
 Terraform for AWS, Azure, GCP
-
-### For Terraform professional consultancy and Technical advisory please feel free to drop a note to som@e2eSolutionArchitect.com
-[Click here](https://e2esolutionarchitect.com/tag/terraform) for Terraform articles
-
-
-[![e2eSA Talent Development Programs](https://user-images.githubusercontent.com/62712515/212548238-92365832-fe03-47c7-8c06-701834a67ebf.png)](https://github.com/e2eSolutionArchitect/academy)
-***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for list of upcoming trainings.
-
-### Join the ***Slack*** channel 
- - [Terraform Infrastructure Automation Engineering](https://talentdevelop-u8d3237.slack.com/archives/C04KCD8183B)
-
-## [HashiCorp Certified: Terraform Associate (002)](https://github.com/e2eSolutionArchitect/academy/blob/main/certification-based-training-programs/terraform/terraform-associate-002.md): Certification focused Training Program by ['e2e Solution Architect'](https://e2esolutionarchitect.com/role-based-training-program/)
-
-## A New Version of HashiCorp Infrastructure Automation Certification Is Coming Soon. [HashiCorp Certified: Terraform Associate (003)](https://github.com/e2eSolutionArchitect/academy/blob/main/certification-based-training-programs/terraform/terraform-associate-003.md)
-
-## e2eSA Online Video Tutorials [Click here](https://www.youtube.com/channel/UC5Juuk7aTvbRmrABMq4onJA/videos)
-
-## IaC Code scanning by 'Checkov' [Click here](https://github.com/e2eSolutionArchitect/terraform/tree/main/checknov)
+checking
 
 e2eSA Solutions for Terraform
 - Initialize Terraform offline in Windows, Ubuntu [Click here](https://github.com/e2eSolutionArchitect/terraform/blob/main/providers/docs/terraform-offline-initialize.md)
